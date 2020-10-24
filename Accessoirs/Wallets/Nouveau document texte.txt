@@ -1,0 +1,28 @@
+<!-- Place your first set of thumbnails here -->
+
+<li><a href="https://www.ebay.ca/itm/224064183918"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/Polo_Ralph_Lauren_College_Web_Stretch_Belt_Striped_Navy_Gold_Leather_Size_38_and_42%20-%20Copie%20-%20Copie%20(2)%20-%20Copie.png"></a></li>
+
+<li><a href="https://www.ebay.ca/itm/224079751368"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/Polo_Ralph_Lauren_Mens_Polo_Bear_Overlay__Needlepo-mitchell.jpg"></a></li>
+
+<li><a href="https://www.ebay.ca/itm/224048181182"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/POLO_RALPH_LAUREN_Mens_GROSGRAIN_O_Ring_Striped_Casual_RIBBON_BELT_Navy_Blue_Leather_Accents_Size__Large.png
+"></a></li>
+
+<li><a href="https://www.ebay.ca/itm/223590937891"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/Polo_Ralph_Lauren_Men's_Polo_Sport_Printed_Bumbag__In_Beacon_Print_Multi_Heritage_Belt_Bag_One_Size.png"></a></li>
+
+<li><a href="https://www.ebay.ca/itm/224098115218"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/Polo_Ralph_Lauren_Navy_Leather_Woven_Varsity_P_Patch__Pewter_Embroidered_Ring_Clasp_Key_Chain_in_Gift_Box.png"></a></li>
+
+<li><a href="https://www.ebay.ca/itm/224082226261"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/Polo_Ralph_Lauren_wallet_VARSITY__P_Wing_Graphic_Print_Leather_Card_Case%20_Wallet.png
+"></a></li>
+
+<li><a href="https://www.ebay.ca/itm/224079735345"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/Polo__Ralph_Lauren_wallet_VARSITY_P_Wing_Graphic_Print_Leather_Card_Case%20_Wallet.png"></a></li>
+
+<li><a href="https://www.ebay.ca/itm/224068608610"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/Nouveau%20dossier/POLO_RALPH_LAUREN_(POLO_BEAR)_LEATHER_MARTINI_SLIM_CARD_CASE_WALLET_BROWN.png"></a></li>
+
+<li><a href="https://www.ebay.ca/itm/224071941924"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/POLO_RALPH_LAUREN_(POLO__BEAR)_NAUTICAL_SAILOR_LEATHER_BIFOLD_WALLET_TAN_NIB.png"></a></li>
+
+<li><a href="https://www.ebay.ca/itm/224045989346"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/POLO_RALPH__LAUREN_(POLO_BEAR)_LEATHER_MARTINI_BIFOLD_WALLET_BROWN_NIB_NEW_FAST.png"></a></li>
+
+<li><a href="https://www.ebay.ca/itm/224082331817"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/POLO__RALPH_LAUREN_(POLO_BEAR)_NAUTICAL_SAILOR_LEATHER_BIFOLD_WALLET_TAN_NIB.jpg"></a></li>
+
+<li><a href="https://www.ebay.ca/itm/224071941924"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Wallets/Salvator_Ferragamo_Women's_Vara__bow_small_wallet_Black_leather.png"></a></li>
+<!-- Place your first set of thumbnails here -->

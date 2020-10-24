@@ -1,12 +1,14 @@
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_2_Pack_Authentic_1967_Men's_Crew_Cut_Socks_NAVY_RED_Size_10_13.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_2_Pack_Bear_Men's_Crew_Cut_Socks_ROYAL_NAVY_Size_10_13%20.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_2_Pack_Men's_Crest_Crew_Cut_Socks_NAVY_Size_10_13.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_2_Pair_Men's_Blazer_Bear_Crew_Cut_Socks_GREY_NAVY_Size_10_13.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_67_Crew_Cut_Socks_2_Pack_HUNTER_GREEN_Size_10_13.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Classic_Argyle_Print_Crew_Cut_Socks_Green_One_Size.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Colourblock_Crew_Cut_Socks_MULTI_COLOUR_One_Size.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Fish_Print_Crew_Cut_Socks_HUNTER_One_Size.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Flag_Semaphore_Crew_Cut_Socks_2_Pack_Red_Size_10_13.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Sport_Logo_Crew_Cut_Socks_MULTI_COLOUR_One_Size.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Spring_Plaid_Crew_Cut_Socks_2_Pack_NAVY_GREEN_Size_10_13.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Striped_Crew_Cut_Socks_NAVY_One_Size.png
+<!-- Place your first set of thumbnails here -->
+<li><a href="https://www.ebay.ca/itm/224064183918"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_2_Pack_Authentic_1967_Men's_Crew_Cut_Socks_NAVY_RED_Size_10_13.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224079751368"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_2_Pack_Bear_Men's_Crew_Cut_Socks_ROYAL_NAVY_Size_10_13%20.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224048181182"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_2_Pack_Men's_Crest_Crew_Cut_Socks_NAVY_Size_10_13.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/223590937891"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_2_Pair_Men's_Blazer_Bear_Crew_Cut_Socks_GREY_NAVY_Size_10_13.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224098115218"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_67_Crew_Cut_Socks_2_Pack_HUNTER_GREEN_Size_10_13.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224082226261"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Classic_Argyle_Print_Crew_Cut_Socks_Green_One_Size.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224079735345"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Colourblock_Crew_Cut_Socks_MULTI_COLOUR_One_Size.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224068608610"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Fish_Print_Crew_Cut_Socks_HUNTER_One_Size.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224071941924"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Flag_Semaphore_Crew_Cut_Socks_2_Pack_Red_Size_10_13.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224045989346"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Sport_Logo_Crew_Cut_Socks_MULTI_COLOUR_One_Size.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224082331817"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Spring_Plaid_Crew_Cut_Socks_2_Pack_NAVY_GREEN_Size_10_13.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224071941924"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Socks/Polo_Ralph_Lauren_Men's_Striped_Crew_Cut_Socks_NAVY_One_Size.png"></a></li>
+<!-- Place your first set of thumbnails here -->
