@@ -1,12 +1,14 @@
-https://github.com/redmaplefashionstore/images/blob/master/Accessoirs/Scarfs/Polo__Ralph_Lauren_Men-s_Ski_Bear__Embroidered_Tartan_Wool_Red_Plaid_Multi_Scarf_One_Size_PC0397_625.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/POLO__RALPH_LAUREN_Men's_Camo_Wool_Scarf_One_Size_PC0482-352.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Black_Gray_Plaid_Pony_Italy_Reversible_window_pane_pattern_Scarf_Muffler_One_Size.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Christmas_Santa_Hat_Martini_Bear__Scarf_Wool_Blend_Red_One_Size.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Embroidered_Christmas_Tree_Bear_Scarf_Muffler_Red_One_Size_PC0284-610.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Kicker_Bear__College_Scarf_Green_Multi_One_Size_PC0397_354.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Muffler_Fall_Winter_Pony_Embroidery_Reversible___Buffalo_Check_RedBlack_PC0441-620.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Women_Wool_Retro_Skier_Scarf_Rl_2000_Red__One_Size_Unisex.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren___Men's_White_Polo_Sport_Logo_Intarsia_Colour_Block_Knit_Scarf_One_Size_PC0398-107.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph__Lauren_Men%60s_Bear_Embroidered_Tartan_Wool_Scarf_One_Size_PC0397_107.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo__Ralph_Lauren_Men's_Embroidered_Polo_Ski_Bear_Scarf_One_Size_Black__PC0395_433.jpeg
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo__Ralph_Lauren_Men's_Embroidered_Polo_Ski_Bear_Scarf_One_Size_Navy__PC0395_433.png
+<!-- Place your first set of thumbnails here -->
+<li><a href="https://www.ebay.ca/itm/224064183918"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Ski_Bear_Embroidered_Tartan_Wool_Red_Plaid_Multi__Scarf_One_Size_PC0397_625.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224079751368"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/POLO__RALPH_LAUREN_Men's_Camo_Wool_Scarf_One_Size_PC0482-352.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224048181182"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Black_Gray_Plaid_Pony_Italy_Reversible_window_pane_pattern_Scarf_Muffler_One_Size.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/223590937891"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Christmas_Santa_Hat_Martini_Bear__Scarf_Wool_Blend_Red_One_Size.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224098115218"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Embroidered_Christmas_Tree_Bear_Scarf_Muffler_Red_One_Size_PC0284-610.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224082226261"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Kicker_Bear__College_Scarf_Green_Multi_One_Size_PC0397_354.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224079735345"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Muffler_Fall_Winter_Pony_Embroidery_Reversible___Buffalo_Check_RedBlack_PC0441-620.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224068608610"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren_Men's_Women_Wool_Retro_Skier_Scarf_Rl_2000_Red__One_Size_Unisex.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224071941924"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph_Lauren___Men's_White_Polo_Sport_Logo_Intarsia_Colour_Block_Knit_Scarf_One_Size_PC0398-107.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224045989346"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo_Ralph__Lauren_Men%60s_Bear_Embroidered_Tartan_Wool_Scarf_One_Size_PC0397_107.png"></a></li>
+<li><a href="https://www.ebay.ca/itm/224082331817"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo__Ralph_Lauren_Men's_Embroidered_Polo_Ski_Bear_Scarf_One_Size_Black__PC0395_433.jpeg"></a></li>
+<li><a href="https://www.ebay.ca/itm/224071941924"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Accessoirs/Scarfs/Polo__Ralph_Lauren_Men's_Embroidered_Polo_Ski_Bear_Scarf_One_Size_Navy__PC0395_433.png"></a></li>
+<!-- Place your first set of thumbnails here -->
