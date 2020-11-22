@@ -1,12 +1,437 @@
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/POLO__RALPH_LAUREN_Men's_Camo_Wool_Scarf_One_Size_PC0482-352.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Christmas_Santa_Hat_Martini_Bear__Scarf_Wool_Blend_Red_One_Size.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Embroidered_Christmas_Tree_Bear_Scarf_Muffler_Red_One_Size_PC0284-610.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Embroidered_Polo_Ski_Bear_Scarf_One_Size_Navy__PC0395_433.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Muffler_Fall_Winter_Pony_Embroidery_Reversible___Buffalo_Check_RedBlack_PC0441-620.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Women_Wool_Retro_Skier_Scarf_Rl_2000_Red_One_Size_Unisex.jpg
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's__Kicker_Bear_College_Scarf_Green_Multi_One_Size_PC0397_354.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren__Men's_Embroidered_Polo__Ski_Bear__Scarf_One_Size_Navy_PC0395_433.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren___Men's_White_Polo_Sport_Logo_Intarsia_Colour_Block_Knit_Scarf_One_Size_PC0398-107.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph__Lauren_Men's_Black_Gray_Plaid_Pony_Italy_Reversible_window_pane_pattern_Scarf_Muffler_One_Size.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph__Lauren_Men%60s_Bear_Embroidered_Tartan_Wool_Scarf_One_Size_PC0397_107.png
-https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo__Ralph_Lauren_Men-s_Ski_Bear__Embroidered_Tartan_Wool_Red_Plaid_Multi_Scarf_One_Size_PC0397_625.png
+
+
+<!-- Place your first set of thumbnails here -->
+<li><a href="https://www.ebay.ca/itm/224181461403"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/POLO__RALPH_LAUREN_Men's_Camo_Wool_Scarf_One_Size_PC0482-352.png"></a></li>
+https://www.ebay.ca/itm/224201339417
+<li><a href="https://www.ebay.ca/itm/224185107889"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Christmas_Santa_Hat_Martini_Bear__Scarf_Wool_Blend_Red_One_Size.png"></a></li>
+https://www.ebay.ca/itm/224185110111
+<li><a href="https://www.ebay.ca/itm/224204062582"><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Embroidered_Christmas_Tree_Bear_Scarf_Muffler_Red_One_Size_PC0284-610.png"></a></li>
+https://www.ebay.ca/itm/224185115107
+
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Embroidered_Polo_Ski_Bear_Scarf_One_Size_Navy__PC0395_433.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Muffler_Fall_Winter_Pony_Embroidery_Reversible___Buffalo_Check_RedBlack_PC0441-620.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Women_Wool_Retro_Skier_Scarf_Rl_2000_Red_One_Size_Unisex.jpg"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's__Kicker_Bear_College_Scarf_Green_Multi_One_Size_PC0397_354.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren__Men's_Embroidered_Polo__Ski_Bear__Scarf_One_Size_Navy_PC0395_433.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren___Men's_White_Polo_Sport_Logo_Intarsia_Colour_Block_Knit_Scarf_One_Size_PC0398-107.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph__Lauren_Men's_Black_Gray_Plaid_Pony_Italy_Reversible_window_pane_pattern_Scarf_Muffler_One_Size.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph__Lauren_Men%60s_Bear_Embroidered_Tartan_Wool_Scarf_One_Size_PC0397_107.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo__Ralph_Lauren_Men-s_Ski_Bear__Embroidered_Tartan_Wool_Red_Plaid_Multi_Scarf_One_Size_PC0397_625.png"></a></li>
+<!-- Place your first set of thumbnails here -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<font rwr="1" style="font-family:Arial" size="4"><style type="text/css">
+#SuperWrapper {
+width: 800px;
+margin-left: auto;
+margin-right: auto;
+font-family: georgia, "Times New Roman", Times, serif;
+font-size: 13px;
+color: #000000;
+}
+#SuperWrapper p {
+margin: 0px;
+padding: 0px 0px 15px 0px;
+line-height: 20px;
+}
+#SuperWrapper h1 {
+padding: 5px 0px 10px 0px;
+margin: 0px;
+font-size: 28px;
+font-weight: bold;
+letter-spacing: -1px;
+color: #CC0000;
+}
+#SuperWrapper a {
+font-weight: bold;
+text-decoration: underline;
+color: #CC0000;
+}
+#SuperWrapper a:hover {
+text-decoration:none;
+}
+#SuperHeader {
+width:800px;
+height: 369px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/Header.jpg');
+}
+#SuperHeaderLogo {
+padding: 149px 0px 0px 130px;
+font-family: georgia, "Times New Roman", Times, serif;
+font-size: 60px;
+letter-spacing: -3px;
+font-weight: bold;
+margin: 0px;
+text-align: left;
+line-height: 50px;
+color: #FFFFFF;
+text-shadow: 1px 1px 1px #000;
+}
+#SuperHeaderMenu {
+margin: 0px;
+}
+#SuperHeaderMenu ul.navi{
+padding: 0px;
+margin: 0px 0px 0px 0px;
+width: 800px;
+text-align: center;
+position: relative;
+}
+#SuperHeaderMenu ul.navi li{
+height: 22px;
+padding: 0 10px 0 10px;
+margin: 0px;
+display: inline;
+}
+#SuperHeaderMenu ul.navi li a{
+padding: 0px 8px 0px 8px;
+font: 18px arial, Helvetica, sans-serif;
+color: #FFFFFF;
+text-decoration: none;
+text-indent: 0px;
+font-weight: bold;
+margin: 0;
+width: inherit;
+letter-spacing: -1px;
+line-height: 30px;
+}
+#SuperHeaderMenu ul.navi li a:hover{
+color: #FFFF99;
+}
+#SuperContentsWrapper {
+width: 800px;
+background-image: url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/Contents.jpg');
+}
+#SuperContents {
+width: 800px;
+background-image: url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/Contents.jpg');
+background-repeat: no-repeat;
+}
+#SuperContentsSub {
+padding: 0px 40px 0px 40px;
+}
+#SuperFooter {
+width: 800px;
+height: 44px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/Footer.jpg');
+}
+#SuperFooterLink {
+width: 800px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/BG.jpg');
+height: 100px;
+}
+#SuperBoxContents {
+padding: 0px 80px 0px 80px;
+margin: 0px;
+color: #000000;
+}
+#SuperBoxContents p {
+padding: 0px 0px 10px 0px;
+margin: 0px;
+line-height: 20px;
+}
+#SuperBoxContents a {
+color: #CC0000;
+text-decoration: underline;
+}
+#SuperBoxContents a:hover {
+text-decoration:none;
+}
+#SuperBoxContents ul {
+padding: 0px 0px 0px 28px;
+margin: 0px;
+list-style-type: disc;
+}
+#SuperBoxContents li {
+line-height: 20px;
+}
+#SuperPayment {
+width: 800px;
+}
+#SuperPaymentTop {
+width: 800px;
+height: 83px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/PaymentPolicyTop.jpg');
+}
+#SuperPaymentContents {
+width: 800px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/PaymentPolicyContents.jpg');
+}
+#SuperPaymentBottom {
+width: 800px;
+height: 53px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/PaymentPolicyBottom.jpg');
+}
+#SuperShipping {
+width: 800px;
+}
+#SuperShippingTop {
+width: 800px;
+height: 83px;
+background-image: url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/ShippingPolicyTop.jpg');
+}
+#SuperShippingContents {
+width: 800px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/ShippingPolicyContents.jpg');
+}
+#SuperShippingBottom {
+width: 800px;
+height: 53px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/ShippingPolicyBottom.jpg');
+}
+#SuperContacts {
+width: 800px;
+}
+#SuperContactsTop {
+width: 800px;
+height: 83px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/ContactsTop.jpg');
+}
+#SuperContactsContents {
+width: 800px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/ContactsContents.jpg');
+}
+#SuperContactsBottom {
+width: 800px;
+height: 53px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/ContactsBottom.jpg');
+}
+#SuperReturns {
+width: 800px;
+}
+#SuperReturnsTop {
+width: 800px;
+height: 83px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/ReturnsTop.jpg');
+}
+#SuperReturnsContents {
+width: 800px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/ReturnsContents.jpg');
+}
+#SuperReturnsBottom {
+width: 800px;
+height: 53px;
+background-image:url('https://www.superauctiontemplate.com/freebaytemplate/productimages/Christmas2/HTML/images/ReturnsBottom.jpg');
+}
+/* HTML5 ELEMENTS */
+/* sub images > thumbnail list */
+ul#SuperThumbs, ul#SuperThumbs li {
+margin: 0;
+padding: 0;
+list-style: none;
+}
+ul#SuperThumbs li {
+float: left;
+background: #ffffff;
+border: 1px solid #cccccc;
+margin: 0px 0px 10px 10px;
+padding: 8px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+}
+ul#SuperThumbs a {
+float: left;
+display: block;
+width: 150px;
+height: 150px;
+line-height: 100px;
+overflow: hidden;
+position: relative;
+z-index: 1;
+}
+ul#SuperThumbs a img {
+float: left;
+width: 100%;
+height: 100%;
+border: 0px;
+}
+/* sub images > mouse over */
+ul#SuperThumbs a:hover {
+overflow: visible;
+z-index: 1000;
+border: none;
+}
+ul#SuperThumbs a:hover img {
+background: #ffffff;
+border: 1px solid #cccccc;
+padding: 10px;
+-moz-border-radius: 10px;
+border-radius: 10px;
+position: absolute;
+top:-20px;
+left:-50px;
+width: auto;
+height: auto;
+max-width: 512px;
+}
+/* sub images > clearing floats */
+ul#SuperThumbs:after, li#SuperThumbs:after {
+content: ".";
+display: block;
+height: 0;
+clear: both;
+visibility: hidden;
+}
+ul#SuperThumbs, li#SuperThumbs {
+display: block;
+}
+ul#SuperThumbs, li#SuperThumbs {
+min-height: 1%;
+}
+* html ul#SuperThumbs, * html li#SuperThumbs {
+height: 1%;
+}
+</style>
+<div id="SuperWrapper">
+<div id="SuperHeader">
+<div id="SuperHeaderLogo">RedMaple<br>Store</div>
+<div id="SuperHeaderMenu">
+
+</div>
+</div>
+<div id="SuperContentsWrapper">
+<div id="SuperContents">
+<div id="SuperContentsSub">
+<p></p><span style="color: #ff0016"><strong> ?? IMPORTANT :</strong> Message to our customers. Due to the current situation, and according to the press release published by Canada Post, delivery delays are always present on your orders.</span><a href="https://www.canadapost.ca/cpc/en/our-company/news-and-media/corporate-news/news-release/2020-10-21-canada-post-asks-canadians-to-shop-early-this-holiday-season">Read More</a>
+<p>
+</p>
+<h1>Polo Ralph Lauren Men's America Bear Crew Long Sleeve Sweatshirt Sweat Cruise Navy Size XS</h1>
+<h1>100% AUTHENTIC &lt;&lt;&lt;&lt;&lt; NEW WITH TAGS</h1>
+<p><strong>Description</strong></p>
+<p>Sweater by Polo Ralph Lauren with a front print featuring a large bear in a total-denim look, something very characteristic of the firm's founder.
+<p></p>
+<li>Ribbed waistband</li>
+<li>Round neck</li>
+<li>Ribbed cuffs</li>
+<li>55% Cotton / 45% Polyester</li>
+<li>Color : Navy</li>
+<p>
+</p>
+<br>For our full range of <span style="color: #0000FF"><strong>Polo Ralph Lauren Sale </strong></span> visit <a href="https://www.ebay.com/str/redmaplestore"><u>RedMaple.Store</u></a>
+<p></p>
+<h1>Product Images Gallery</h1>
+<p>Looking for great deals? Welcome to our eBay Fashion Store. We offer more than 100 designer clothing items at great prices, thanks to a wide selection of references and renowned brands like Polo Ralph Lauren, Levi's, Chevignon, G-Star Raw, Diesel, Calvin Klein, and others.
+</p>
+<p></p>
+<ul id="SuperThumbs">
+<!-- Place your first set of thumbnails here -->
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/POLO__RALPH_LAUREN_Men's_Camo_Wool_Scarf_One_Size_PC0482-352.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Christmas_Santa_Hat_Martini_Bear__Scarf_Wool_Blend_Red_One_Size.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Embroidered_Christmas_Tree_Bear_Scarf_Muffler_Red_One_Size_PC0284-610.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Embroidered_Polo_Ski_Bear_Scarf_One_Size_Navy__PC0395_433.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Muffler_Fall_Winter_Pony_Embroidery_Reversible___Buffalo_Check_RedBlack_PC0441-620.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's_Women_Wool_Retro_Skier_Scarf_Rl_2000_Red_One_Size_Unisex.jpg"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren_Men's__Kicker_Bear_College_Scarf_Green_Multi_One_Size_PC0397_354.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren__Men's_Embroidered_Polo__Ski_Bear__Scarf_One_Size_Navy_PC0395_433.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph_Lauren___Men's_White_Polo_Sport_Logo_Intarsia_Colour_Block_Knit_Scarf_One_Size_PC0398-107.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph__Lauren_Men's_Black_Gray_Plaid_Pony_Italy_Reversible_window_pane_pattern_Scarf_Muffler_One_Size.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo_Ralph__Lauren_Men%60s_Bear_Embroidered_Tartan_Wool_Scarf_One_Size_PC0397_107.png"></a></li>
+<li><a href=""><img src="https://raw.githubusercontent.com/redmaplefashionstore/images/master/Scarfs/Polo__Ralph_Lauren_Men-s_Ski_Bear__Embroidered_Tartan_Wool_Red_Plaid_Multi_Scarf_One_Size_PC0397_625.png"></a></li>
+<!-- Place your first set of thumbnails here -->
+
+</ul>
+<p></p>
+<h1>About us:</h1>
+<p><strong>RedMaple.Store'</strong>s mission is to offer good deals and good service to our customers, with excellent value for the money. Our online store offers a very dynamic and stimulating environment and we are working in the age of technology by offering a wide range of ready-to-wear clothing from well-known brands to provide great diversity and special offers.
+</p>
+<h1>Our approach:</h1>
+<p>Customer service is the centerpiece of our business and we are 100% committed to our customers. We strive to satisfy our customers and are proud of our unique, first-rate service to build a relationship of trust.
+</p><h1>Shop with a smile ?? :</h1>
+<p>We are specialized in the best brands and our items are original, authentic and brand-new with labels.
+</p><p>We strive to offer the best prices and the best deals online.
+</p>
+<h1>Satisfaction of our customers:</h1>
+<p>Once you have received your items, please let us know that you are satisfied with the transaction by leaving us positive feedback.
+Upon receipt of your items, please inspect them and let us know how you like them.
+</p>
+<p>If something goes wrong, please do not leave negative or neutral comments without giving us the opportunity to correct it. We will greatly appreciate your activity and your positive feedback on our account.
+</p><p>Please contact us; we strive to provide exceptional products and services.
+</p></div>
+<div id="SuperPayment">
+<div id="SuperPaymentTop"></div>
+<div id="SuperPaymentContents">
+<div id="SuperBoxContents">
+<p>
+</p><li>PayPal is the only form of payment accepted by the seller.
+</li><li>Fixed price items require immediate payment.
+</li><li>Auction item payments must be received within twenty-four (24) hours after the auction's end.
+</li><li>Failure to pay will result in eBay notification and a non-paying bidder alert.
+<p></p>
+<p></p>
+<a href="#"><img src="https://imagizer.imageshack.com/img923/1630/8noZ8J.jpg"></a></li>
+<p></p></div>
+</div>
+<div id="SuperPaymentBottom"></div>
+</div>
+<div id="SuperShipping">
+<div id="SuperShippingTop"></div>
+<div id="SuperShippingContents">
+<div id="SuperBoxContents">
+<p>
+</p><li>The delivery terms of your orders are different from one item to another.
+</li><li>Please check the shipping options for each item.
+</li><li>Your order will be processed within one (1) business day after receipt of payment (Monday to Friday).
+</li><li>Duties and taxes are generally not included in the price of the goods and may not be included in shipping costs and items are often not manufactured in your country of residence.
+</li><li>They are therefore subject to customs duties and taxes that may be charged for goods purchased online.
+</li><li>The seller will only ship to the address provided by eBay.
+</li><li>For more information on importing goods, please contact the customs office in your country.
+</li><li>Please make sure the correct name and address is input; any changes required will delay the order process.
+</li><li><strong>By making a purchase, you agree to the terms above.</strong>
+<p>
+</p><p></p>
+<p>
+<a href="#"><img src="https://imagizer.imageshack.com/img921/1861/LCauCJ.jpg"></a></p>
+<span style="color: #ff0016"><strong> ?? IMPORTANT :</strong> Message to our customers. Due to the current situation, and according to the press release published by Canada Post, delivery delays are always present on your orders.</span><a href="https://www.canadapost.ca/cpc/en/our-company/news-and-media/corporate-news/news-release/2020-10-21-canada-post-asks-canadians-to-shop-early-this-holiday-season">Read More</a>
+</li>
+<p></p></div>
+</div>
+<div id="SuperContactsBottom"></div>
+</div>
+<div id="SuperReturns">
+<div id="SuperReturnsTop"></div>
+<div id="SuperReturnsContents">
+<div id="SuperBoxContents">
+<p>
+</p><li>Please read carefully the return conditions for each item.
+</li><li>If a return is accepted and you are not satisfied 100% of your purchase, you can return the product and get a full refund or exchange it for another, whether similar or not.
+</li><li>You can return a product within 14 to 30 days from the date of purchase.
+</li><li>Any product you return must be unused and in the same condition that you received it and in its original packaging with tags attached.
+<p></p></li></div>
+</div>
+<div id="SuperShippingBottom"></div>
+</div>
+<div id="SuperContacts">
+<div id="SuperContactsTop"></div>
+<div id="SuperContactsContents">
+<div id="SuperBoxContents">
+<li><a href="https://contact.ebay.com/ws/eBayISAPI.dll?FindAnswers&amp;requested=redmaple.shop&amp;_trksid=p2545226.m2531.l4583&amp;rt=nc">Contact Us</a></li>
+<p></p></div>
+</div>
+<div id="SuperReturnsBottom"></div>
+</div>
+</div>
+</div>
+<div id="SuperFooter"></div>
+<div id="SuperFooterLink">
+<p align="center">
+<a target="_blank" href="">
+<img src="" border="0">
+</a>
+</p>
+</div>
+</div>
+</font>
